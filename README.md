@@ -14,7 +14,7 @@ https://stackoverflow.com/questions/42286972/converting-from-pandas-dataframe-to
 https://stackoverflow.com/questions/50307707/how-do-i-convert-a-pandas-dataframe-to-a-pytorch-tensor
 
 https://pytorch.org/tutorials/beginner/basics/buildmodel_tutorial.html
--
+
 https://scikit-learn.org/stable/modules/neural_networks_supervised.html#regression
 https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPRegressor.html#sklearn.neural_network.MLPRegressor
 https://stackoverflow.com/questions/53183525/google-colab-how-can-i-mount-a-particular-folder-instead-of-mounting-root-folde
