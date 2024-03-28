@@ -5,6 +5,16 @@ You have a cool idea for a machine learning project? Use this repository. Make
 sure to explain what problem you're solving and how you're doing it.
 
 # References
+https://machinelearningmastery.com/training-and-validation-data-in-pytorch/
+
+https://stackoverflow.com/questions/50307707/how-do-i-convert-a-pandas-dataframe-to-a-pytorch-tensor
+
+https://stackoverflow.com/questions/42286972/converting-from-pandas-dataframe-to-tensorflow-tensor-object
+
+https://stackoverflow.com/questions/50307707/how-do-i-convert-a-pandas-dataframe-to-a-pytorch-tensor
+
+https://pytorch.org/tutorials/beginner/basics/buildmodel_tutorial.html
+----
 https://scikit-learn.org/stable/modules/neural_networks_supervised.html#regression
 https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPRegressor.html#sklearn.neural_network.MLPRegressor
 https://stackoverflow.com/questions/53183525/google-colab-how-can-i-mount-a-particular-folder-instead-of-mounting-root-folde
