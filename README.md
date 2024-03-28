@@ -5,6 +5,8 @@ You have a cool idea for a machine learning project? Use this repository. Make
 sure to explain what problem you're solving and how you're doing it.
 
 # References
+https://pytorch.org/tutorials/beginner/basics/data_tutorial.html
+
 https://machinelearningmastery.com/training-and-validation-data-in-pytorch/
 
 https://stackoverflow.com/questions/50307707/how-do-i-convert-a-pandas-dataframe-to-a-pytorch-tensor
