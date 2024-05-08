@@ -6,6 +6,8 @@ sure to explain what problem you're solving and how you're doing it.
 
 # References
 https://pytorch.org/tutorials/beginner/basics/data_tutorial.html
+https://towardsdatascience.com/t-sne-clearly-explained-d84c537f53a
+https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html
 
 https://machinelearningmastery.com/training-and-validation-data-in-pytorch/
 
