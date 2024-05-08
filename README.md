@@ -5,20 +5,18 @@ You have a cool idea for a machine learning project? Use this repository. Make
 sure to explain what problem you're solving and how you're doing it.
 
 # References
+https://scikit-learn.org/stable/modules/generated/sklearn.metrics.make_scorer.html
+https://scikit-learn.org/stable/auto_examples/neighbors/approximate_nearest_neighbors.html#sphx-glr-auto-examples-neighbors-approximate-nearest-neighbors-py
 https://pytorch.org/tutorials/beginner/basics/data_tutorial.html
+https://distill.pub/2016/misread-tsne/
+https://towardsdatascience.com/how-to-tune-hyperparameters-of-tsne-7c0596a18868
 https://towardsdatascience.com/t-sne-clearly-explained-d84c537f53a
 https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html
-
 https://machinelearningmastery.com/training-and-validation-data-in-pytorch/
-
 https://stackoverflow.com/questions/50307707/how-do-i-convert-a-pandas-dataframe-to-a-pytorch-tensor
-
 https://stackoverflow.com/questions/42286972/converting-from-pandas-dataframe-to-tensorflow-tensor-object
-
 https://stackoverflow.com/questions/50307707/how-do-i-convert-a-pandas-dataframe-to-a-pytorch-tensor
-
 https://pytorch.org/tutorials/beginner/basics/buildmodel_tutorial.html
-
 https://scikit-learn.org/stable/modules/neural_networks_supervised.html#regression
 https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPRegressor.html#sklearn.neural_network.MLPRegressor
 https://stackoverflow.com/questions/53183525/google-colab-how-can-i-mount-a-particular-folder-instead-of-mounting-root-folde
