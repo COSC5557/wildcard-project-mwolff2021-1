@@ -5,6 +5,14 @@ You have a cool idea for a machine learning project? Use this repository. Make
 sure to explain what problem you're solving and how you're doing it.
 
 # References
+https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding
+https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html
+https://machinelearningmastery.com/divergence-between-probability-distributions/
+https://www.statology.org/kl-divergence-python/
+https://scikit-learn.org/stable/modules/generated/sklearn.metrics.make_scorer.html
+https://scikit-learn.org/stable/modules/model_evaluation.html
+https://stackoverflow.com/questions/32401493/how-to-create-customize-your-own-scorer-function-in-scikit-learn
+https://scikit-optimize.github.io/stable/modules/generated/skopt.BayesSearchCV.html
 https://scikit-learn.org/stable/modules/generated/sklearn.metrics.make_scorer.html
 https://scikit-learn.org/stable/auto_examples/neighbors/approximate_nearest_neighbors.html#sphx-glr-auto-examples-neighbors-approximate-nearest-neighbors-py
 https://pytorch.org/tutorials/beginner/basics/data_tutorial.html
