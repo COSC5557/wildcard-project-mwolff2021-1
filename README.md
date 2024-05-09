@@ -6,6 +6,7 @@ sure to explain what problem you're solving and how you're doing it.
 
 # References
 https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding
+https://towardsdatascience.com/how-to-tune-hyperparameters-of-tsne-7c0596a18868
 https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html
 https://machinelearningmastery.com/divergence-between-probability-distributions/
 https://www.statology.org/kl-divergence-python/
